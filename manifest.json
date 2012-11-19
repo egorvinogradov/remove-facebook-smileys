@@ -1,7 +1,7 @@
 {
     "name": "Remove Facebook smileys",
     "version": "1.0",
-    "description": "Disables emoticons on Facebook.",
+    "description": "Replaces graphic emoticons with text smiles on Facebook.",
     "permissions": [
         "tabs",
         "http://*.facebook.com/",
