@@ -1,0 +1,11 @@
+{
+    "name": "Remove Facebook smileys",
+    "version": "1.0",
+    "description": "Disables emoticons on Facebook.",
+    "permissions": [
+        "tabs",
+        "http://*.facebook.com/",
+        "https://*.facebook.com/"
+    ],
+	"background_page": "background.html"
+}
